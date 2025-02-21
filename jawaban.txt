@@ -1,0 +1,30 @@
+JAWABAN
+FARA NABILA, 0110124216, ROMBEL 06
+
+1. Dokumen Root
+Dokumen root adalah direktori utama yang digunakan oleh server web untuk menyajikan halaman web kepada pengguna. Ini adalah titik awal tempat server mencari file saat permintaan HTTP dilakukan.
+
+2. Dokumen Root pada Apache Web Server
+Pada Apache web server (seperti XAMPP), secara default dokumen root terletak di C:\xampp\htdocs. Namun, tidak wajib berada di sana. Lokasi dokumen root dapat diubah melalui konfigurasi file httpd.conf dengan mengubah nilai DocumentRoot.
+Itu yang saya dapatkan dari internet, tapi yang baru kami pelajari hanya baru bisa di dalam htdocs dengan php.
+
+3. Perintah Git
+init → Menginisialisasi repository Git baru.
+clone → Mengkloning repository dari remote ke lokal.
+remote → Mengelola remote repository.
+add → Menambahkan perubahan ke staging area.
+commit → Menyimpan perubahan ke dalam repository dengan pesan tertentu.
+push → Mengirim perubahan dari lokal ke remote repository.
+checkout → Berpindah antara branch atau commit tertentu.
+
+4. Perbedaan GitHub dan GitLab
+- GitHub lebih populer dan banyak digunakan oleh komunitas open-source, maupun kami sebagai mahasiswa yang dari awal dikenalkan GitHub sebagai tempat memposting folder sehingga dapat diakses.
+- GitLab lebih berfokus pada fitur CI/CD (Continuous Integration/Continuous Deployment) bawaan.
+GitHub memiliki model lisensi berbayar untuk fitur private repository, sedangkan GitLab bisa di-host sendiri dengan fitur lengkap.
+
+5. Perbedaan variable User dan Variable System
+- Variable User berlaku hanya untuk akun pengguna tertentu dalam sistem.
+- Variable System berlaku secara global untuk seluruh sistem dan semua pengguna.
+Persamaan Variable System dan Variable Constant
+Keduanya digunakan untuk menyimpan nilai yang digunakan dalam program atau sistem.
+Bersifat tetap dan tidak berubah selama eksekusi kecuali dimodifikasi secara eksplisit.
